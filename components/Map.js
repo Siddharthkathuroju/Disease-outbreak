@@ -12,11 +12,11 @@ const Map = ({ position, zoomLevel }) => {
 
   useEffect(() => {
     if (typeof window !== "undefined") {
-      import("leaflet").then(() => setLeafletLoaded(true)); // Only load Leaflet on client side
+      import("leaflet").then(() => setLeafletLoaded(true)); 
     }
   }, []);
 
-  if (!leafletLoaded) return <div>Loading Map...</div>; // Loading message until map is ready
+  if (!leafletLoaded) return <div>Loading Map...</div>; 
 
   return (
     <MapContainer center={position} zoom={zoomLevel} style={{ width: "100%", height: "500px" }}>
