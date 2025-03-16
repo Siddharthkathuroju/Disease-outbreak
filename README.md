@@ -9,7 +9,7 @@ OutbreakX is an AI-powered disease prediction and visualization platform that he
 ##  Features
 -  Interactive Map: Visualizes disease outbreaks in different regions.
 -  Machine Learning Prediction: Uses ML models to predict potential outbreaks.
--  Real-Time Data Updates: Integrates historical and live data sources.
+-  Real-Time Data Updates: Integrates the historical and live data sources.
 -  Location-Based Insights: Provides localized disease trends.
 -  API Integration: Fetches external health data for better predictions.
 -  User-Friendly UI: Designed for researchers, policymakers and the general public.
