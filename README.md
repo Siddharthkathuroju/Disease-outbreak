@@ -3,7 +3,7 @@
 The project is not completed yet!
 
 
-## Project Overview
+## Project Overview:
 OutbreakX is an AI-powered disease prediction and visualization platform that helps monitor and forecast disease outbreaks in different geographical regions. It leverages **machine learning models** and **interactive maps** to analyze real-time and historical data, providing insights into spread of diseases. The goal is to assist the healthcare organizations, researchers, and local authorities in **early detection and prevention of outbreaks**.
 
 ##  Features
