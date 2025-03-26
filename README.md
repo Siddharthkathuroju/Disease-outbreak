@@ -14,7 +14,7 @@ OutbreakX is an AI-powered disease prediction and visualization platform that he
 -  API Integration: Fetches external health data for better predictions.
 -  User-Friendly UI: Designed for researchers, policymakers and the general public.
 
- Tech Stack
+ Tech Stack:
 - Frontend: Next.js, React, Leaflet.js (for maps)
 - Backend: Flask (for ML model deployment)
 - Machine Learning: TensorFlow, Scikit-Learn
